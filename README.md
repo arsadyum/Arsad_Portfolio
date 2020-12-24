@@ -8,6 +8,7 @@ This is my Data Analytics, Business Analytics, Data Engineer, and Data Science p
 *	Calculated new measures and columns utilizing DAX language in Power BI.
 
 ![](/images/de.png)
+![](/images/dataviz.png)
 
 
 

@@ -1,4 +1,3 @@
-This is my Data Analytics, Business Analytics, Data Engineer, and Data Science project portfolio. The projects are completed either by collaborating with a team in college or in a personal Capacity.
 # [Project 1: Sales Insight Interactive Dashboard: MySQ & Power BI](https://github.com/arsadyum/Sales-Insight-with-SQL-and-Power-BI)
 * Created a Sales Database Management System in MySQL.
 * Accessed the data using Power BI.

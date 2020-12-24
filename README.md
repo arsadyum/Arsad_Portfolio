@@ -7,7 +7,7 @@ This is my Data Analytics, Business Analytics, Data Engineer, and Data Science p
 * Created Power Bi interactive dashboard includes core business KPI e.g. sales revenue, profit margin, etc. 
 *	Calculated new measures and columns utilizing DAX language in Power BI.
 
-![](https://github.com/arsadyum/Arsad_Portfolio/blob/main/images/de.png)
+![](/images/de.png)
 
 
 

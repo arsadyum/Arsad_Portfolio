@@ -16,3 +16,6 @@ This is my Data Analytics, Business Analytics, Data Engineer, and Data Science p
 * Created Fronend to manage inventory in a Database ( Utilized HTML, CSS, Java Script. REST API, Bootstarp) via user interface 
 * Data stored in a MySQL server 
 * Backend: Python Flask server in the background to connect SQL server with the frontend  
+
+![](/images/product.png)
+![](/images/order.png)
